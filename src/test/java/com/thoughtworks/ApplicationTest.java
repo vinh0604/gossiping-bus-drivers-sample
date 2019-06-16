@@ -17,7 +17,7 @@ public class ApplicationTest {
     @Test
     public void shouldReturnTheNumberOfStopsRequired_whenAllBusDriversCanMeetEachOther() {
         Application.run(getClass().getResourceAsStream("/input-1.txt"), out);
-        verify(out).println("5");
+        verify(out).println(5);
     }
 
     @Test
