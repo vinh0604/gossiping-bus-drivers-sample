@@ -1,4 +1,4 @@
-# Gossip Bus Driver Exercise
+# Gossiping Bus Drivers Exercise
 
 ## Problem
 
